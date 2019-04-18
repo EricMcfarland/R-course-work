@@ -48,6 +48,8 @@ We also want to load packages that have functions in them we want to use. For th
 
 ```{r load_libraries, message=FALSE}
 library(dplyr)
+library(ggplot2)
+library(statsr)
 ```
 
 ## Step Three. Prepare for the first question
