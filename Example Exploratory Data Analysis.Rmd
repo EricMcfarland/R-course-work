@@ -42,6 +42,7 @@ As with most reading in file commands, inside the parentheses needs to go a piec
 ```{r get_the_data}
 load("selected_nzes2011.Rdata")
 ```
+This is a change
 
 We also want to load packages that have functions in them we want to use. For this particular analysis we will only need the `dplyr` package, but for your project you will also likely need other packages as well, e.g. `ggplot2`.
 
